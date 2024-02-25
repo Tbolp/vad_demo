@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\CMakeLists.txt",
+    "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\ncnn-20240102-android\\x86_64\\lib\\cmake\\ncnn\\ncnn-release.cmake",
+    "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\ncnn-20240102-android\\x86_64\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\ncnn-20240102-android\\x86_64\\lib\\cmake\\ncnn\\ncnnConfig.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Tbolp\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\.cxx\\Debug\\3z274p31\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Tbolp\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\android\\app\\.cxx\\Debug\\3z274p31\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "vad_demo::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "vad_demo",
+      "output": "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\build\\app\\intermediates\\cxx\\Debug\\3z274p31\\obj\\x86_64\\libvad_demo.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\Tbolp\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\Tbolp\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

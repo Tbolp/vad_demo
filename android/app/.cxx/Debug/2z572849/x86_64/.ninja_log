@@ -1,0 +1,7 @@
+# ninja log v5
+1	376	729462269	CMakeFiles/vad_demo.dir/C_/Users/Tbolp/Documents/projects/vad_demo/windows/runner/silero_vad.cpp.o	bf4e5821d6fe1484
+378	571	729462270	C:/Users/Tbolp/Documents/projects/vad_demo/build/app/intermediates/cxx/Debug/2z572849/obj/x86_64/libvad_demo.so	f023dec2bce762d5
+2	383	729462477	CMakeFiles/vad_demo.dir/C_/Users/Tbolp/Documents/projects/vad_demo/windows/runner/silero_vad.cpp.o	bf4e5821d6fe1484
+383	578	729462477	C:/Users/Tbolp/Documents/projects/vad_demo/build/app/intermediates/cxx/Debug/2z572849/obj/x86_64/libvad_demo.so	f023dec2bce762d5
+2	370	729462610	CMakeFiles/vad_demo.dir/C_/Users/Tbolp/Documents/projects/vad_demo/windows/runner/silero_vad.cpp.o	bf4e5821d6fe1484
+370	554	729462610	C:/Users/Tbolp/Documents/projects/vad_demo/build/app/intermediates/cxx/Debug/2z572849/obj/x86_64/libvad_demo.so	f023dec2bce762d5

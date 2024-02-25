@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/Tbolp/Documents/projects/vad_demo/android/app/.cxx/Debug/2z572849/x86",
+  "command": "C:\\Users\\Tbolp\\AppData\\Local\\Android\\Sdk\\ndk\\21.4.7075529\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/Tbolp/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Tbolp/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dvad_demo_EXPORTS -isystem ../../../../ncnn-20240102-android/x86/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -fno-rtti -fno-exceptions -pthread -o CMakeFiles\\vad_demo.dir\\C_\\Users\\Tbolp\\Documents\\projects\\vad_demo\\windows\\runner\\silero_vad.cpp.o -c C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\windows\\runner\\silero_vad.cpp",
+  "file": "C:\\Users\\Tbolp\\Documents\\projects\\vad_demo\\windows\\runner\\silero_vad.cpp"
+}
+]
